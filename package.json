@@ -1,0 +1,29 @@
+{
+  "name": "proyecto_node",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto de node js",
+  "main": "indexNodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exequielmatiastorres/NODE-JS.git"
+  },
+  "keywords": [
+    "MVC",
+    "Pug",
+    "Tailwind",
+    "MySQL",
+    "Sequelize"
+  ],
+  "author": "Exequiel Matias Torres, Nicolas Herman Weinmeister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exequielmatiastorres/NODE-JS/issues"
+  },
+  "homepage": "https://github.com/exequielmatiastorres/NODE-JS#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
